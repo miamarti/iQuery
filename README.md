@@ -14,7 +14,7 @@ Or<br/>
 ***
 
 See the documentation through the link
-https://github.com/clever--code/iQuery/wiki/API-Documentation
+https://github.com/miamarti/iQuery/wiki/API-Documentation
 
 
 The methods are implemented:
@@ -64,11 +64,10 @@ Technical and institutional
 iQuery - Independent querys to DOM elements
 
 * Independence Query Library vBeta
-* http://clevercode.com.br/
-* Copyright 2012 CleverCode Foundation
+* https://gitto.io/r/miamarti
 *
-* Charge: Miller Augusto S. Martins, Alex dos Santos Liberato
-* contato@clevercode.com.br
+* Charge: Miller Augusto S. Martins
+* miller.augusto@gmail.com
 *
 * GNU General Public License
 * http://www.gnu.org/licenses/gpl-3.0.en.html
